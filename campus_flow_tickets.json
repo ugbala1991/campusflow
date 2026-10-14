@@ -1,0 +1,32 @@
+[
+    {
+        "id": "T001",
+        "title": "Appliance",
+        "category": "Hardware",
+        "urgency": "medium",
+        "affected_users": 3,
+        "priority": "medium",
+        "status": "resolved",
+        "assigned_to": "Agbo"
+    },
+    {
+        "id": "T002",
+        "title": "Hardware",
+        "category": "Other",
+        "urgency": "low",
+        "affected_users": 1,
+        "priority": "low",
+        "status": "open",
+        "assigned_to": null
+    },
+    {
+        "id": "T003",
+        "title": "Wifi",
+        "category": "Network",
+        "urgency": "high",
+        "affected_users": 8,
+        "priority": "high",
+        "status": "open",
+        "assigned_to": "Mentor"
+    }
+]
